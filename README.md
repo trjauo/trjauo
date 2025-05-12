@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I’m Jaime 👋
 
-<!--
-**trjauo/trjauo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate **Software Engineer** at **GMV**, working in the **Flight Dynamics Department**. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 **Education**: Physics degree at UAM
+- 💼 **Current Role**: Software Engineer @ GMV  
+- 🛰️ **Department**: Flight Dynamics  
+- 🔭 **Focus**: Developing mission-critical software for trajectory analysis, orbit determination, and real-time simulation  
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Languages**: Python, C++, MATLAB
+- **Version Control**: Git, GitHub
+
+---
+
+## 📫 How to Reach Me
+
+- **Email**: jbruno@gmv.com
+- **LinkedIn**: www.linkedin.com/in/jaime-bruno-gomez
+
+
